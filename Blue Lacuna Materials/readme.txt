@@ -5,7 +5,7 @@ By Aaron A. Reed
 ************************************
 
 Release 4 / July 18, 2010
-http://www.lacunastory.com/
+https://web.archive.org/web/20100727182721/http://lacunastory.com/
 
 
 
@@ -34,7 +34,7 @@ FOR WINDOWS
 FOR APPLE MACS
 
  * Spatterlight (version 0.5 or higher)
-   http://ccxvii.net/spatterlight/download/spatterlight-0.5.0.zip
+   https://web.archive.org/web/20100611211445/http://ccxvii.net/spatterlight/download/spatterlight-0.5.0.zip
 
    **NOTE: After installing and starting Spatterlight, you will need to go to the Preferences menu and make sure "Colors and styles" is selected.**
 
@@ -48,7 +48,7 @@ FOR LINUX
 *********** HINTS ************
 ******************************
 
-A full online hint guide is available at http://lacunastory.com/hints.html
+A full online hint guide is available at https://web.archive.org/web/20101104043034/http://www.lacunastory.com/hints.html
 
 
 ******************************
