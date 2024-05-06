@@ -5,7 +5,7 @@ By Aaron A. Reed
 ************************************
 
 Release 4 / July 18, 2010
-https://web.archive.org/web/20100727182721/http://lacunastory.com/
+https://web.archive.org/web/20140202131640/http://www.lacunastory.com/
 
 
 
@@ -29,12 +29,12 @@ Blue Lacuna now runs on most major Glulx interpreters. The story requires an int
 
 FOR WINDOWS
 
- * Git (version 1.2 or higher). http://www.ifarchive.org/if-archive/programming/glulx/interpreters/git/wingit-126.zip
+ * Git (version 1.2 or higher). http://www.ifarchive.org/if-archive/programming/glulx/interpreters/git/
 
 FOR APPLE MACS
 
  * Spatterlight (version 0.5 or higher)
-   https://web.archive.org/web/20100611211445/http://ccxvii.net/spatterlight/download/spatterlight-0.5.0.zip
+   http://ccxvii.net/spatterlight/download/
 
    **NOTE: After installing and starting Spatterlight, you will need to go to the Preferences menu and make sure "Colors and styles" is selected.**
 
