@@ -1,4 +1,4 @@
-# Zork
+# Blue Lacuna
 
 An Inform 7 Community Example
 
