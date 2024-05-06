@@ -1,5 +1,7 @@
 "Blue Lacuna" by "Aaron A. Reed"
 
+Include (- Serial "100717"; -).
+
 [Blue Lacuna should be compiled with Inform build 5Z71. Note that the Glulx interpreter in the "Game" panel will not properly run this version of the game; to play, you'll have to "Release" the story and use an external interpreter. ]
 
 [All versions of Blue Lacuna and its source code are released under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 license. In summary, you may freely distribute, perform, or create derivative works, but not for commercial purposes without permission from the author. More information is available at http://creativecommons.org/licenses/by-nc-sa/3.0/us/.]
