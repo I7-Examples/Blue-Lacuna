@@ -29,7 +29,7 @@ Blue Lacuna now runs on most major Glulx interpreters. The story requires an int
 
 FOR WINDOWS
 
- * Git (version 1.2 or higher). http://www.ifarchive.org/if-archive/programming/glulx/interpreters/git/
+ * Git (version 1.2 or higher). https://www.ifarchive.org/if-archive/programming/glulx/interpreters/git/
 
 FOR APPLE MACS
 
